@@ -1,13 +1,12 @@
-import Intro from "./component/Intro"
+
+import Game from "./Component/practice/Game"
 
 
 function App() {
   
   return (
    <>
-    <Intro></Intro>
-    <Intro></Intro>
-    <Intro></Intro>
+    <Game/>
    </>
   )
 }
